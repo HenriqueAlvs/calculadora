@@ -10,3 +10,4 @@ formulario.addEventListener("submit", function(e){
     
     document.getElementById("resultado").textContent = soma
 })
+/* Henrique Alves Fernandes / RA: 26110444 */
